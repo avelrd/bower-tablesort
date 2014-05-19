@@ -2,8 +2,8 @@
     "name": "tablesort",
     "version": "1.0.0-dev",
     "main": [
-        "assets/scripts/tablesort.js",
-        "assets/styles/tablesort.scss"
+        "vendor/assets/scripts/tablesort.js",
+        "vendor/assets/styles/tablesort.scss"
     ],
     "dependencies": {
         "jquery": ">=1.7.0",
